@@ -24,5 +24,4 @@ public class ReverseNumberUsingRecursion {
 
 
 }
-//public static int reverse;
-//public static int remainder=0;
+
